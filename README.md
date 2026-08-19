@@ -1,34 +1,27 @@
-SQL Skills Demonstrated
+# Blinkit Grocery Sales Analysis
 
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- HAVING
-- Aggregate Functions
-- CASE statements
-- Window Functions
-- RANK()
-- Data Cleaning
-- KPI Calculation
+## 📊 Power BI Dashboard
 
-Python Skills
+<img width="410" height="281" alt="dashboard" src="https://github.com/user-attachments/assets/15afc968-d87d-4724-9c73-cc2d3f6f7f7a" />
 
+
+## 🛠 Technologies
+
+- Python
 - Pandas
-- CSV processing
-- Data cleaning
-- Missing-value handling
-- Duplicate detection
-- Data type conversion
-- SQLite integration
+- SQLite
+- SQL
+- Power BI
+- DAX
 
-Python Skills
+## 🔍 Analysis
 
-- Pandas
-- CSV processing
-- Data cleaning
-- Missing-value handling
-- Duplicate detection
-- Data type conversion
-- SQLite integration
-
+- Total Sales
+- Average Sales
+- Average Rating
+- Sales by Item Type
+- Sales by Fat Content
+- Sales by Outlet Type
+- Sales by Outlet Location
+- Sales by Outlet Size
+- Sales by MRP Range
